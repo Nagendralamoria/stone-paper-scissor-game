@@ -33,3 +33,5 @@ Folder Structure
 index.html: The main HTML file containing the game structure.
 style.css: CSS file for styling the game.
 script.js: JavaScript file for game logic and DOM manipulation.
+
+![Game Screen](https://github.com/Nagendralamoria/stone-paper-scissor-game/assets/60883923/42fad415-5248-4801-9b25-a39f69f09ef6)
